@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/aws_dsn"
+    android:padding="12dp"
+    android:layout_margin="6dp"
+    android:paddingLeft="12dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#9E431F"
+        android:paddingLeft="12dp"
+        android:text="AWB NO"/>
+    <TextView
+        android:id="@+id/awsId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="12dp"
+        android:textColor="@color/black"
+        android:text="0A1DSKJFL3215454SDFSD"/>
+
+</LinearLayout>

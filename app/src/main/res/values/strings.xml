@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Internship_project</string>
+    <string name="rescan">Rescan</string>
+    <string name="scan_barcode">Scan barcode</string>
+    <string name="delete">Delete</string>
+    <string name="received_from">Received From</string>
+    <string name="total_weight_auto_manual">Total Weight [Auto/Manual]</string>
+    <string name="name">Name</string>
+    <string name="doc_type">Doc Type :</string>
+    <string name="non_doc">Non Doc</string>
+    <string name="menu_open">open</string>
+    <string name="menu_close">close</string>
+</resources>

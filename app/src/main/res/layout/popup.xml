@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="250dp"
+    android:layout_height="150dp"
+    android:layout_marginTop="100dp"
+    android:background="@drawable/popup_dsn"
+    android:layout_gravity="center_horizontal">
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:text="MATCHED"
+        android:textColor="#D6B10E"
+        android:textSize="36dp" />
+
+    <ImageView
+        android:id="@+id/closeIv"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/ic_baseline_close_24" />
+</RelativeLayout>
